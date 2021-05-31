@@ -1,2 +1,2 @@
 # QUIZ_20210530
-Duvan Bocanegra
+# Ejecutar comando make, para la generación del archivo  programaprincipal.o
